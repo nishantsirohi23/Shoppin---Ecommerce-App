@@ -1,6 +1,6 @@
 # Shoppin E-commerce App with Pay Later Feature
 
-![App Logo]()
+![App Logo](https://firebasestorage.googleapis.com/v0/b/ecommerce-63f31.appspot.com/o/shoppin.png?alt=media&token=1997eb45-3558-4fa1-94dd-1d741308748e&_gl=1*1hlbwcr*_ga*MTEzNzUzMzI4OS4xNjg4NTU1OTQy*_ga_CW55HF8NVT*MTY5NzA0NzE5OS41OC4xLjE2OTcwNDcyODIuNDIuMC4w)
 
 ## Overview
 
